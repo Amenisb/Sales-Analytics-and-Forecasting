@@ -1,8 +1,8 @@
 # End-to-End BI Solution: Operations, Purchasing, Inventory, Treasury & Revenue Forecasting
 
-> Business Intelligence project delivered for a real client at **Murex Business Solutions**, from data warehouse design to the delivery of dashboards and a forecasting model, all validated by the client.
+> Business Intelligence project delivered for a real client, from decentralized raw data to the delivery of dashboards and a forecasting model, all validated by the client. The main objective: help stakeholders make data-driven decisions with real business value.
 
-**Stack:** SQL Server · Talend Data Integration · Power BI · DAX · Python (Anaconda) · XGBoost · Scrum
+**Stack:** SQL Server · Talend Data Integration · Power BI · DAX · Python · XGBoost · Scrum
 
 ---
 
